@@ -1,6 +1,7 @@
 #include "stm32f10x.h"                  // Device header
 
 #update by thang doan van124
+#update 21-03-2023
 
 int main(void)
 {
