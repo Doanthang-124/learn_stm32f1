@@ -1,6 +1,6 @@
 #include "stm32f10x.h"                  // Device header
 
-#update by thang doan van
+#update by thang doan van123
 
 int main(void)
 {
