@@ -1,7 +1,10 @@
 #include "stm32f10x.h"                  // Device header
 
-#update by thang doan van123
-#update by 22-03/2023
+#update by thang doan van124
+#update 21-03-2023
+
+int main(void)
+{
 		/*enable clock for UART1 adn GPIOA*/
 		RCC->APB2ENR |= (1u << 14)|(1u << 2)|(1u << 0);
 		/* config PA9 Alternate function */
